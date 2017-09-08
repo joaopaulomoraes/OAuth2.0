@@ -1,0 +1,8 @@
+.idea/*
+.DS_Store
+.vagrant/*
+
+database_setup.pyc
+
+#important
+client_secrets.json
