@@ -1,8 +1,4 @@
 .idea/*
+.idea/vcs.xml
+.vagrant/
 .DS_Store
-.vagrant/*
-
-database_setup.pyc
-
-#important
-client_secrets.json
